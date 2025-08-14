@@ -19,7 +19,5 @@
 - 🖌 **Pure HTML & CSS** – No JavaScript, just creativity.
 - 🦋 **Multiple Butterflies** – Each with unique size, speed, and charm.
 
----
 
-## 📂 Project Structure
 
