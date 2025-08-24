@@ -1,0 +1,68 @@
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.loader span {
+  display: block;
+  width: 15px;
+  height: 15px;
+  background: #4285F4;
+  border-radius: 50%;
+  animation: bounce 0.6s infinite alternate;
+}
+
+.loader span:nth-child(2) {
+  background: #EA4335;
+  animation-delay: 0.2s;
+}
+
+.loader span:nth-child(3) {
+  background: #FBBC05;
+  animation-delay: 0.4s;
+}
+
+.loader span:nth-child(4) {
+  background: #34A853;
+  animation-delay: 0.6s;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: normal;
+  letter-spacing: 1px;
+  opacity: 0.8;
+}
+
+@keyframes bounce {
+  to {
+      transform: translateY(-12px);
+  }
+}
