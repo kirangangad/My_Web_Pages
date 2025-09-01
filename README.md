@@ -19,6 +19,6 @@ This repository is a collection of my **creative, responsive, and modern web pag
  ┣ 📂 assets         # Images, icons, and other media
  ┣ 📂 css            # Stylesheets for styling the pages
  ┣ 📂 js             # JavaScript files for interactivity
- ┣ 📜 index.html     # Main homepage
- ┣ 📜 about.html     # About page
- ┗ 📜 contact.html   # Contact page
+ ┣ 📜 index.html     # Main homepage_
+ ┣ 📜 about.html     # About page_
+ ┗ 📜 contact.html   # Contact page_
