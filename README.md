@@ -14,7 +14,7 @@ This repository is a collection of my **creative, responsive, and modern web pag
 ---
 
 ## 📂 Project Structure
-```plaintext
+```plaintext 
 📦 my-creative-webpages
  ┣ 📂 assets         # Images, icons, and other media
  ┣ 📂 css            # Stylesheets for styling the pages
