@@ -11,7 +11,7 @@ This repository is a collection of my **creative, responsive, and modern web pag
 - **Creative UI & Animations** 🎨 – Adding life to web pages.       
 - **Fast & Optimized** ⚡ – Minimal loading times for a smooth user experience.
       
----
+---   
 
 ## 📂 Project Structure
 ```plaintext 
